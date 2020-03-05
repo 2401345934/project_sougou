@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/2401345934/project_sougou#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "jquery": "^3.4.1",
     "swiper": "^5.3.6"
   },

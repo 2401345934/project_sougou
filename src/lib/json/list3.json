@@ -1,0 +1,66 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "totalPage": 1,
+    "pageNo": 1,
+    "pageSize": 20,
+    "pageList": [
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/05/31/20190531114104_6301.jpg",
+        "productId": 23898,
+        "salePrice": 12900,
+        "name": "搜狗翻译宝Pro专用皮套",
+        "linePrice": 12900,
+        "state": 3,
+        "desc": "搜狗翻译宝Pro专用皮套"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/12/09/20191209141358_2522.jpg",
+        "productId": 29735,
+        "salePrice": 6500,
+        "name": "小米体重秤 单独购买不发货",
+        "linePrice": 6500,
+        "state": 3,
+        "desc": "赠品 小米体重秤 单独购买不发货"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/08/09/20190809142835_1753.jpg",
+        "productId": 25962,
+        "salePrice": 4900,
+        "name": "小米蓝牙音箱（赠品，限前100名 勿单独购买）",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "小米蓝牙音箱，单独购买不发货"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/11/05/20191105111321_2186.jpg",
+        "productId": 28575,
+        "salePrice": 3900,
+        "name": "搜狗AI录音笔（智能录音笔C1）充电线",
+        "linePrice": 3900,
+        "state": 3,
+        "desc": "搜狗智能录音笔C1搜狗AI录音笔充电线"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/05/31/20190531120625_6302.jpg",
+        "productId": 23911,
+        "salePrice": 2900,
+        "name": "搜狗翻译宝Pro专用贴膜",
+        "linePrice": 2900,
+        "state": 3,
+        "desc": "搜狗翻译宝Pro专用贴膜"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2020/01/14/20200114130524_2773.jpg",
+        "productId": 30998,
+        "salePrice": 1000,
+        "name": "补加急邮费10元",
+        "linePrice": 1000,
+        "state": 3,
+        "desc": "加急邮费10元"
+      }
+    ],
+    "totalCount": 6
+  }
+}

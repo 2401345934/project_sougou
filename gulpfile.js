@@ -87,8 +87,12 @@ const serverHandler = () => {
     return gulp.src('./dist')
         .pipe(webserver({
             port: 8088,    //端口号
+            host: 'localhost',
             open: './pages/index.html',   //默认打开的首页 从dist 下面开始书写
             livereload: true,   //热重启 自动刷新浏览器
+            proxies:[
+
+            ]
         }))
 }
 

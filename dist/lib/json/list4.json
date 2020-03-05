@@ -1,0 +1,192 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "totalPage": 2,
+    "pageNo": 1,
+    "pageSize": 20,
+    "pageList": [
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/11/14/20191114155617_2204.jpg",
+        "productId": 21521,
+        "salePrice": 4900,
+        "name": "糖猫plus2专用表带（仅表带不含手表）",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "糖猫plus2专用表带"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/20/20190520161619_6047.png",
+        "productId": 21637,
+        "salePrice": 4900,
+        "name": "糖猫plus2专用吊坠",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "糖猫plus2专用吊坠"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/05/20/20190520162420_6048.png",
+        "productId": 21796,
+        "salePrice": 4900,
+        "name": "糖猫plus2专用贴膜",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "糖猫plus2专用贴膜"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/05/23/20190523103914_6162.jpg",
+        "productId": 21879,
+        "salePrice": 4900,
+        "name": "糖猫M2专用表带",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "完美适配糖猫M2手表"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/05/23/20190523170208_6182.png",
+        "productId": 22263,
+        "salePrice": 4900,
+        "name": "糖猫plus表带",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫plus手表"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/23/20190523171851_6189.png",
+        "productId": 22325,
+        "salePrice": 4900,
+        "name": "糖猫star专用表带",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫star手表"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/23/20190523181606_6196.png",
+        "productId": 22436,
+        "salePrice": 4900,
+        "name": "糖猫star充电背夹",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "糖猫star充电背夹"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/05/23/20190523182105_6203.png",
+        "productId": 22559,
+        "salePrice": 4900,
+        "name": "糖猫star数据线",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫star手表数据线"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/23/20190523200207_6227.png",
+        "productId": 22672,
+        "salePrice": 4900,
+        "name": "糖猫手表通用充电头",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/05/23/20190523200518_6233.png",
+        "productId": 22718,
+        "salePrice": 4900,
+        "name": "糖猫手表通用数据线",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/20/20190520161619_6047.png",
+        "productId": 23444,
+        "salePrice": 4900,
+        "name": "糖猫JOY2吊坠",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫JOY2"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/11/14/20191114154840_2203.jpg",
+        "productId": 23545,
+        "salePrice": 4900,
+        "name": "糖猫JOY2表带（仅表带不含手表）",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫JOY2"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/31/20190531112956_6298.jpg",
+        "productId": 23718,
+        "salePrice": 4900,
+        "name": "糖猫Color专用吊坠",
+        "linePrice": 4900,
+        "state": 3,
+        "desc": "适配糖猫Color"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/05/23/20190523104438_6169.png",
+        "productId": 22134,
+        "salePrice": 2900,
+        "name": "糖猫M2专用卡壳",
+        "linePrice": 2900,
+        "state": 3,
+        "desc": "糖猫M2专用卡壳"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/05/31/20190531101931_6291.png",
+        "productId": 23263,
+        "salePrice": 2900,
+        "name": "糖猫basic贴膜",
+        "linePrice": 2900,
+        "state": 3,
+        "desc": "适配糖猫basic "
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/31/20190531102736_6292.png",
+        "productId": 23307,
+        "salePrice": 2900,
+        "name": "糖猫JOY2贴膜",
+        "linePrice": 2900,
+        "state": 3,
+        "desc": "适配糖猫JOY2"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/05/31/20190531111910_6296.jpg",
+        "productId": 23697,
+        "salePrice": 2900,
+        "name": "Color专用贴膜",
+        "linePrice": 2900,
+        "state": 3,
+        "desc": "适配Color及T3贴膜"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/04/17/20190417153831_4742.jpg",
+        "productId": 19608,
+        "salePrice": 6000,
+        "name": "糖猫T2 卡通吊坠保护套",
+        "linePrice": 6000,
+        "state": 3,
+        "desc": "糖猫T2儿童手表配件手表吊坠挂坠 卡通保护壳套配件"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/04/17/20190417155843_4750.jpg",
+        "productId": 19728,
+        "salePrice": 6000,
+        "name": "糖猫basic 卡通吊坠保护套",
+        "linePrice": 6000,
+        "state": 3,
+        "desc": "儿童手表配件手表表带吊坠挂坠 卡通保护壳套配件"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/04/17/20190417163310_4758.jpg",
+        "productId": 19803,
+        "salePrice": 980,
+        "name": "E2、Plus手表钢化膜",
+        "linePrice": 980,
+        "state": 3,
+        "desc": "儿童手表配件手表贴膜"
+      }
+    ],
+    "totalCount": 25
+  }
+}

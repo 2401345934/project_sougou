@@ -1,0 +1,57 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "totalPage": 2,
+    "pageNo": 2,
+    "pageSize": 20,
+    "pageList": [
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/04/17/20190417164338_4766.jpg",
+        "productId": 13999,
+        "salePrice": 9900,
+        "name": "糖猫学生儿童小书包",
+        "linePrice": 9900,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/01/25/20190125190050_4481.jpg",
+        "productId": 14119,
+        "salePrice": 8000,
+        "name": "T2/basic专用原装表带",
+        "linePrice": 8000,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/01/25/20190125180339_4463.jpg",
+        "productId": 52,
+        "salePrice": 5900,
+        "name": "Color专用表带",
+        "linePrice": 5900,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/01/25/20190125190502_4483.jpg",
+        "productId": 14395,
+        "salePrice": 2500,
+        "name": "Basic专用表扣",
+        "linePrice": 2500,
+        "state": 3,
+        "desc": ""
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/01/25/20190125190716_4485.jpg",
+        "productId": 14500,
+        "salePrice": 2000,
+        "name": "E1好友版专用表扣",
+        "linePrice": 2000,
+        "state": 3,
+        "desc": ""
+      }
+    ],
+    "totalCount": 25
+  }
+}

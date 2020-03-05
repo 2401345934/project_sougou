@@ -1,0 +1,84 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "totalPage": 1,
+    "pageNo": 1,
+    "pageSize": 20,
+    "pageList": [
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/12/02/20191202171150_2496.jpg",
+        "productId": 29302,
+        "salePrice": 59800,
+        "name": "糖猫Y1 大嘴猴联名款视频电话手表",
+        "linePrice": 59800,
+        "state": 3,
+        "desc": "512MB系统内存 4G存储空间 高清视频通话 英语口语学习 大嘴猴联名款"
+      },
+      {
+        "image": "http://mall03.sogoucdn.com/image/2019/04/28/20190428142912_4841.jpg",
+        "productId": 25885,
+        "salePrice": 59800,
+        "name": "糖猫Y1 能学口语的视频电话手表",
+        "linePrice": 59800,
+        "state": 3,
+        "desc": "512MB系统内存 4G存储空间 高清视频通话 英语口语学习"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/07/25/20190725113113_1697.jpg",
+        "productId": 24823,
+        "salePrice": 39900,
+        "name": "糖猫JOY2 大嘴猴联名款视频电话手表",
+        "linePrice": 39900,
+        "state": 3,
+        "desc": "4G视频通话 AI智能问答 配音学口语"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/12/18/20191218113050_2695.jpg",
+        "productId": 20122,
+        "salePrice": 37900,
+        "name": "糖猫JOY2 能学口语的儿童视频电话手表",
+        "linePrice": 37900,
+        "state": 3,
+        "desc": "4G高速网络，高清视频通话，AI多重定位，英语口语学习"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/05/21/20190521114133_6062.jpg",
+        "productId": 21384,
+        "salePrice": 19900,
+        "name": "糖猫Plus2 能讲故事的电话手表",
+        "linePrice": 19900,
+        "state": 3,
+        "desc": "双向高清通话 7天超长待机 AI七重定位 魔法变声故事 AI智能问答"
+      },
+      {
+        "image": "//mall02.sogoucdn.com/image/2019/01/25/20190125142634_4391.jpg",
+        "productId": 12180,
+        "salePrice": 99800,
+        "name": "糖猫儿童智能电话手表M2",
+        "linePrice": 99800,
+        "state": 3,
+        "desc": "4G视频通话，智能语音问答，10秒小视频 一键美拍"
+      },
+      {
+        "image": "//mall01.sogoucdn.com/image/2019/01/25/20190125135800_4370.jpg",
+        "productId": 11907,
+        "salePrice": 39800,
+        "name": "糖猫E2",
+        "linePrice": 39800,
+        "state": 3,
+        "desc": "智能语音问答，高清通话"
+      },
+      {
+        "image": "//mall03.sogoucdn.com/image/2019/06/20/20190620184607_6495.jpg",
+        "productId": 13110,
+        "salePrice": 49800,
+        "name": "糖猫JOY",
+        "linePrice": 49800,
+        "state": 3,
+        "desc": "学生定位，智能4G，网络多功能，官方旗舰防水JOY"
+      }
+    ],
+    "totalCount": 8
+  }
+}
